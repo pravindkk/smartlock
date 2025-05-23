@@ -1,0 +1,9 @@
+[submodule "lib/HomeKey-Lib"]
+	path = lib/HomeKey-Lib
+	url = https://github.com/rednblkx/HK-HomeKit-Lib.git
+[submodule "lib/HomeKey/HomeKey-Lib"]
+	path = lib/HomeKey/HomeKey-Lib
+	url = https://github.com/rednblkx/HK-HomeKit-Lib.git
+[submodule "lib/HomeKey/Adafruit-PN532"]
+	path = lib/HomeKey/Adafruit-PN532
+	url = https://github.com/adafruit/Adafruit-PN532.git
